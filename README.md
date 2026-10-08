@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**lexdelapaix/lexdelapaix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Leslie A. Jones
 
 ### Cybersecurity | Cloud Security | Security Engineering
@@ -51,5 +47,3 @@ Sanitized security assessments covering:
 **A.A.S. Information Technology** — Bellevue College
 
 [LinkedIn](https://linkedin.com/in/lexdelapaix)
-
--->
